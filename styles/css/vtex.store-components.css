@@ -4,10 +4,6 @@
     padding: 0;
 }
 
-.infoCardContainer--vintage {
-    background-color: #EDCFD1;
-}
-
 .infoCardHeadline {
     font-family: serif;
     font-size: 2.25rem;
@@ -35,4 +31,6 @@
 
 .infoCardContainer--vintage {
     background-color: #EDCFD1;
+    font-weight: bold;
+    color: black;
 }
