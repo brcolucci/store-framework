@@ -19,8 +19,8 @@
     border: transparent;
   }
   
-  .-infoCardContainer--vintage {
-    background-color: #EDCFD1;
+  .infoCardContainer--vintage {
+    background: #EDCFD1;
 }
   
   .infoCardContainer--metal {
