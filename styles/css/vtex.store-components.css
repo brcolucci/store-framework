@@ -1,9 +1,3 @@
-.infoCardContainer {
-    max-width: 1260px;
-    margin: 0 auto;
-    padding: 0;
-}
-
 .infoCardHeadline {
     font-family: serif;
     font-size: 2.25rem;
@@ -11,26 +5,34 @@
     color: black;
     border: 2px solid black;
     padding: 24px;
-}
-
-.infoCardCallActionContainer :global(.vtex-button) {
+  }
+  
+  .infoCardCallActionContainer :global(.vtex-button) {
     color: white;
     background-color: gray;
     border: transparent;
-}
-
-.infoCardCallActionContainer :global(.vtex-button):hover {
+  }
+  
+  .infoCardCallActionContainer :global(.vtex-button):hover {
     color: gray;
     background-color: white;
     border: transparent;
-}
-
-.infoCardContainer--metal {
-    background-color: #e1e1e1
-}
-
-.infoCardContainer--vintage {
+  }
+  
+  .infoCardContainer--vintage {
     background-color: #EDCFD1;
-    font-weight: bold;
-    color: black;
-}
+  }
+  
+  .infoCardContainer--metal {
+    background-color: #e1e1e1;
+  }
+  
+  .infoCardContainer {
+    max-width: 1260px;
+    margin: 0 auto;
+    padding: 0;
+  }
+  
+  .infoCardContainer :hover {
+    background-color: white;
+  }
