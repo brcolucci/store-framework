@@ -8,6 +8,7 @@
     "props": {
       "text": "\n*Hello, World*\n",
       "textPosition": "RIGHT"
+      
     }
   }
 }
