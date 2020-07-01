@@ -14,7 +14,7 @@
     "search-result-layout.customQuery#home": {
         "props": {
             "querySchema": {
-                "skusFilter": "Blue Top Retro Camera",
+                "queryField": "Blue Top Retro Camera",
                 "orderByField": "OrderByReleaseDateDESC",
                 "hideUnavailableItems": true,
                 "maxItemsPerPage": 8
