@@ -19,8 +19,8 @@
             "search-bar"
         ],
         "props": {
-            "sticky": true,
             "inverted": true,
+            "sticky": true,
             "fullWidth ": false
         }
     },
