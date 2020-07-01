@@ -2,7 +2,7 @@
     "store.custom#landing": {
         "blocks": [
             "image#landingbanner",
-            "search-result-layout.customQuery"
+            "search-result-layout.customQuery#home"
         ]
     },
     "image#landingbanner": {
