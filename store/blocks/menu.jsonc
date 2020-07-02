@@ -10,16 +10,6 @@
             "orientation": "horizontal"
         }
     },
-    "vtex.menu@2.x:menu#major": {
-        "props": {
-            "orientation": "vertical"
-        },
-        "children": [
-            "menu-item#refrigerators",
-            "menu-item#ovens",
-            "menu-item#washers"
-        ]
-    },
     "vtex.menu@2.x:menu#small": {
         "props": {
             "orientation": "vertical"
@@ -38,12 +28,6 @@
             "menu-item#cameras",
             "menu-item#laptops",
             "menu-item#tvs"
-        ]
-    },
-    // Submenu
-    "vtex.menu@2.x:submenu#major": {
-        "children": [
-            "vtex.menu@2.x:menu#major"
         ]
     },
     "vtex.menu@2.x:submenu#small": {
